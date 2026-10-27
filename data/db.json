@@ -1,0 +1,68 @@
+{
+  "editais": [
+    {
+      "id": "da910ccb-53fe-4a0b-9072-c86e4739f021",
+      "slug": "tribunal-de-justica-do-estado-de-sao-paulo-tjsp-da910c",
+      "orgao": "Tribunal de Justiça do Estado de São Paulo (TJSP)",
+      "logo": "783d5db7-9c4d-4792-aa3c-1b0ea3f685fe.png",
+      "cidade": "",
+      "uf": "SP",
+      "regiao": "Sudeste",
+      "banca": "VUNESP",
+      "categoria": "Concurso Público",
+      "status": "Inscrições Abertas",
+      "publicado": true,
+      "escolaridade": [
+        "Médio",
+        "Superior"
+      ],
+      "cargos": [
+        "Oficial de Justiça (132 vagas e cadastro de reserva)",
+        "Escrevente Técnico Judiciário (cadastro de reserva)"
+      ],
+      "vagas": 137,
+      "cadastroReserva": false,
+      "salarioMin": 6792,
+      "salarioMax": 9799.99,
+      "inscricaoInicio": "2026-10-08",
+      "inscricaoFim": "2026-12-10",
+      "publicadoEm": "2026-10-27",
+      "atualizadoEm": "2026-10-27",
+      "resumo": "A jornada é de 40 horas semanais para ambos os cargos. A remuneração informada é de R$ 9.856,95 para Oficial de Justiça e de R$ 6.782,54 para Escrevente Técnico Judiciário, acrescida de auxílios para alimentação, saúde e transporte.\r\n\r\nAs inscrições para os dois concursos serão realizadas pelo site www.vunesp.com.br, de 28 de outubro de 2026 a 10 de dezembro de 2026. A taxa é de R$ 96,00 para Oficial de Justiça e de R$ 81,00 para Escrevente Técnico Judiciário, com pagamento até 11 de dezembro de 2026. Estudantes com renda mensal inferior a dois salários mínimos ou desempregados podem solicitar redução de 50% da taxa, das 10h de 28 de outubro de 2026 até às 23h59 de 30 de outubro de 2026.\r\n\r\nOs concursos terão etapa única, com provas objetiva e discursiva. As provas estão previstas para o dia 14 de março de 2027. Após as provas, candidatos inscritos nas listas reservadas poderão passar por perícia biopsicossocial ou procedimentos de heteroidentificação, conforme o caso.\r\n\r\nO concurso de Oficial de Justiça terá validade de dois anos, contados da homologação, com possibilidade de prorrogação por igual período. O de Escrevente Técnico Judiciário terá validade de um ano, também prorrogável por igual período.\r\n\r\nMais informações podem ser obtidas nos editais completos.",
+      "anexos": [
+        {
+          "titulo": "MATERIAL DE APOIO AULA 1 E 2 (1).pdf",
+          "url": "/arquivos/b0f020e7-3b75-4dcf-ac87-ad2d2155198a.pdf",
+          "tamanho": "516.3 KB"
+        }
+      ],
+      "provasAnteriores": [
+        {
+          "id": "47240ada-f5bf-41c6-ba64-8ec8edd92588",
+          "titulo": "Caderno de Prova — GKO FRETE-Manual de Acesso aos Web Services 4 3.pdf",
+          "url": "/arquivos/55fbb28d-9b08-4d78-b3c8-c557ec065441.pdf",
+          "ano": 2025,
+          "temGabarito": true
+        }
+      ],
+      "linkOficial": "#"
+    }
+  ],
+  "noticias": [],
+  "grupos": [
+    {
+      "id": "g-sp",
+      "nome": "São Paulo — Capital & Interior",
+      "tipo": "regional",
+      "uf": "SP",
+      "regiao": "Sudeste",
+      "descricao": "Alertas exclusivos de abertura de concursos do TJSP, prefeituras e autarquias paulistas.",
+      "link": "https://chat.whatsapp.com/EQEIHFWlOxr4i9JFF7yzOJ",
+      "ativo": true,
+      "membrosAprox": "1.920 membros"
+    }
+  ],
+  "configuracoes": {
+    "whatsappUrl": "https://chat.whatsapp.com/EXEMPLO-GRUPO-REGIONAL"
+  }
+}
